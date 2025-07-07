@@ -1,2 +1,2 @@
 # Finetuning-VLM-s-Using-DORA
-DoRA (Weight-Decomposed Low-Rank Adaptation) is a better method for parameter-efficient fine-tuning (PEFT) of LLMs specifically after LORA. Here I have create some notebooks to finetune small VLMs on VQA task using DORA.
+DoRA (Weight-Decomposed Low-Rank Adaptation) is a more effective method for parameter-efficient fine-tuning (PEFT) of LLMs, particularly after LORA. Here, I have created some notebooks to fine-tune small VLMs on VQA tasks using DORA.
